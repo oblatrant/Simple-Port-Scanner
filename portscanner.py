@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-#
-# Simple Port Scanner (for authorized use only!)
-# Author: <your name>
-#
-# This script checks which TCP ports are open on a target system.
-# It is intentionally minimal, readable, and beginner-friendly.
-#
 
 import socket
 import argparse
